@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 14">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-dasharray: 0 11.75;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #57473b;
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #ebd9c3;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー_1">
+    <g>
+      <g>
+        <line class="cls-4" x1="83" y1="3" x2="83" y2="3"/>
+        <path class="cls-1" d="M72.02,7.14c-19.73,5.7-45.1,5.09-63.62-1.84"/>
+        <line class="cls-4" x1="3" y1="3" x2="3" y2="3"/>
+      </g>
+      <g>
+        <line class="cls-3" x1="83" y1="3" x2="83" y2="3"/>
+        <path class="cls-2" d="M72.02,7.14c-19.73,5.7-45.1,5.09-63.62-1.84"/>
+        <line class="cls-3" x1="3" y1="3" x2="3" y2="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
