@@ -21,7 +21,7 @@ yt-live-chat-server-error-message,#menu,#lower-bumper,#timestamp,#creator-heart-
 yt-live-chat-text-message-renderer[is-deleted],/* 削除,管理メッセージ */
 ytd-sponsorships-live-chat-gift-redemption-announcement-renderer,
 #overlay-image.yt-live-chat-paid-message-renderer,
-#action-buttons.yt-live-chat-paid-message-renderer,/* スパチャボタン */
+#action-buttons,/* スパチャボタン */
 #before-content-buttons,#leaderboard-badge/* トップファンアイコン */ {
   display: none !important;
   padding: 0 !important;
