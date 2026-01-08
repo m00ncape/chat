@@ -1,0 +1,28 @@
+/* 背景透過 */
+yt-live-chat-renderer,
+yt-live-chat-text-message-renderer {
+  background-color: transparent !important;
+}
+
+/* スクロールバー非表示 */
+#item-scroller.yt-live-chat-item-list-renderer {
+  overflow: hidden !important;
+}
+
+/* 非表示 */
+yt-live-chat-header-renderer,/* ヘッダー */
+#ticker.yt-live-chat-renderer,/* スパチャ欄 */
+#separator.yt-live-chat-renderer,/* 境界線 */
+#reaction-control-panel-overlay.yt-live-chat-renderer,/* リアクションパネル */
+#panel-pages.yt-live-chat-renderer,/* 入力欄 */
+yt-live-chat-banner-manager,/* 固定メッセージ */
+yt-live-chat-viewer-engagement-message-renderer,/* 注意書き */
+yt-live-chat-server-error-message,#menu,#lower-bumper,#timestamp,#creator-heart-button,
+yt-live-chat-text-message-renderer[is-deleted],/* 削除,管理メッセージ */
+ytd-sponsorships-live-chat-gift-redemption-announcement-renderer,
+#overlay-image.yt-live-chat-paid-message-renderer,
+#action-buttons.yt-live-chat-paid-message-renderer/* スパチャボタン */,
+#before-content-buttons,#leaderboard-badge/* トップファンアイコン */ {
+  display: none !important;
+  padding: 0 !important;
+}
